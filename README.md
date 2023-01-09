@@ -15,4 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangzong12)](https://github.com/anuraghazra/github-readme-stats)
+- 🔭 Aspire to become an excellent front-end engineer~
+- ⚡ [CSDN](https://blog.csdn.net/momei1942?type=lately)
+  <br/>
+
+![](https://img.shields.io/badge/CSDN-momei1942-blue)
+
+
+![](https://img.shields.io/badge/-JavaScript-e5cd0c?style=flat-square&logo=JavaScript&labelColor=f7df1e&logoColor=000)
+![](https://img.shields.io/badge/-Vue.js-29beb0?style=flat-square&logo=vue.js&labelColor=ffffff&color=4FC08D)
+![](https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white)
+
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huangzong12&theme=vue&show_icons=true)
